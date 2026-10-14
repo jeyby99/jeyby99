@@ -1,4 +1,4 @@
-# 👾 Jeyby | Systems Engineer & Tech Enthusiast
+# 👾  Systems Engineer & Tech Enthusiast
 
 <div align="center">
 
@@ -82,17 +82,6 @@
 <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=chartreuse-dark&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
 
 ## 🐍 Contribution Matrix
 
