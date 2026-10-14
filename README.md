@@ -113,7 +113,7 @@
 <div align="center">
 
 <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/TU_PERFIL/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B20,100:000000&height=100&section=footer" width="100%" alt="Footer"/>
 
