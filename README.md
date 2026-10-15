@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+Jeyby.exe...;sudo+access+granted+%24+root;Systems+Engineering+%7C+DevOps+%7C+Cloud;Automating+the+future+one+line+at+a+time..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+Load.exe...;sudo+access+granted+%24+root;Systems+Engineering+%7C+DevOps+%7C+Cloud;Automating+the+future+one+line+at+a+time..." alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B20,100:00FF41&height=180&section=header&text=JEYBY&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=SYSTEMS%20%7C%20NETWORKS%20%7C%20DEVOPS&descAlignY=55&descSize=15" width="100%" alt="Jeyby banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B20,100:00FF41&height=180&section=header&text=WHOAMI&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=SYSTEMS%20%7C%20NETWORKS%20%7C%20DEVOPS&descAlignY=55&descSize=15" width="100%" alt="Jeyby banner" />
 
 </div>
 
